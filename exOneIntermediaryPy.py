@@ -9,9 +9,9 @@ class Person:
         self.name = name
         self.age = age
         def to_present(self):
-            print(f"Hello, my name is {self.nome} and I have {self.idade} years.")
+            print(f"Hello, my name is {self.name} and I have {self.age} years.")
 
             # Line 7 >> Creation of the person1 variable and assigning a value to it. This Person value characterizes the instance of a class. # Criação da variável person1 e atribuição de valor à mesma. Este valor Person caracteriza a instância de uma classe. 
             # Line 8 >> This line calls the to_present method on an object cited by the person1 variable. # Esta linha chama o método to_present em um objeto citado pela variável person1.
-            person1 = Person("Pietro", 45)
-            person1.to_present()
+            personI = Person("Pietro", 45)
+            personI.to_present()
