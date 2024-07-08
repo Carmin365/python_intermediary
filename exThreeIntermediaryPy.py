@@ -5,9 +5,9 @@ def autenticar_acesso_decorador(tipo_dado):
                 if not isinstance(arg, tipo_dado):
                     raise TypeError(f"Argumento '{arg}' deve ser do tipo {tippo_dado}.")
                 
-                resultado = função(*args, **kwargs)
+                resultado = funcao(*args, **kwargs)
                 return resultado 
-            return função_decorada
+            return funcao_decorada
         return decorator
     
     @autenticar_acesso_decorador(srt)
