@@ -3,7 +3,7 @@ def autenticar_acesso_decorador(tipo_dado):
         def funcao_decorada(*args, **kwargs):
             for arg in args:
                 if not isinstance(arg, tipo_dado):
-                    raise TypeError(f"Argumento '{arg}' deve ser do tipo {tippo_dado}.")
+                    raise TypeError(f"Argumento '{arg}' deve ser do tipo {tipo_dado}.")
                 
                 resultado = funcao(*args, **kwargs)
                 return resultado 
