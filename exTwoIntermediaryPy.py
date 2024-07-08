@@ -6,7 +6,7 @@
 # Line 6 >> This except block is performed if an exception of type ValueError is thrown within the try block. The as keyword grants the exception to the variable e. # Este bloco except é realizado se uma exceção do tipo ValueError for projetada dentro do bloco try. A palavra-chave as concede a exceção à variável e.     
 # Line 7 >> The line print(f"Error:{e}") shows a custom error message, including the projected exception message(e). # A linha print(f"Error:{e}") mostra uma mensagem de erro personalizada, incluindo a mensagem da exceção projetada(e). 
 # Line 8 >> This "except" block is a common exception conquer block. It will take effect if any exception (other than ValueError) happens inside the "try" block. # Este bloco "except" é um bloco comum de coquista de exceção. Ele será efetivado se qualquer exceção (além de ValueError) acontecer dentro do bloco "try".
-# Line 9 >>
+# Line 9 >> As per the previous block, the exception is caught in variable e and a generic error message is shown. # Conforme o bloco anterior, a exceção é conquistada na variável e e uma mensagem de erro genérica é mostrada.
 try:
     number = int(input("Enter a number"))
     if number <= 0:
