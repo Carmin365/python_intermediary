@@ -10,7 +10,7 @@ def autenticar_acesso_decorador(tipo_dado):
             return funcao_decorada
         return decorator
     
-    @autenticar_acesso_decorador(srt)
+    @autenticar_acesso_decorador(str)
     def formatar_nome(nome):
         return nome.title()
     nome_formatado = formatar_nome("ana dos santos")
