@@ -21,5 +21,11 @@
 ### • Tuples: A tuple, like a list, is a sequential block of values, where each value is identified by an index. The basic difference between them is that tuples are permanent, that is, their elements cannot be modified.
 ### Among the purposes of tuples, the most important are the operations of packing and unpacking values.
 #
+### •	Dicionários: Dicionário é um bloco de valores, onde cada valor é associado a uma chave de acesso.
+### • Dictionaries: A dictionary is a block of values, where each value is associated with an access key.
 #
+### •	Conjuntos: Em Python, conjuntos (também conhecidos como "sets") são estruturas de dados que agregam coleções não ordenadas de elementos únicos. 
+### • Sets: In Python, sets are data structures that aggregate unordered collections of unique elements.
+# 
+
 
