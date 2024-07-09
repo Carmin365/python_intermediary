@@ -32,8 +32,10 @@
 #### A manipulação de dados em Python abrange o conjunto de técnicas e ferramentas empregadas para organizar, transformar e analisar conjuntos de dados.
 #### Data manipulation in Python encompasses the set of techniques and tools employed to organize, transform, and analyze data sets.
 #
-#### 3 - Programação Orientada a Objetos (POO): A Programação Orientada a Objetos (POO) em Python é um padrão de programação que organiza o código em torno de objetos, que retratam grupos do mundo real. Cada objeto possui atributos e métodos.
-#### 3 - Object-Oriented Programming (OOP): Object-Oriented Programming (OOP) in Python is a programming pattern that organizes code around objects, which represent groups of real-world objects. Each object has attributes and methods.
+#### 3 - Programação Orientada a Objetos (POO) 
+#### 3 - Object-Oriented Programming (OOP)
+#### A Programação Orientada a Objetos (POO) em Python é um padrão de programação que organiza o código em torno de objetos, que retratam grupos do mundo real. Cada objeto possui atributos e métodos.
+#### Object-Oriented Programming (OOP) in Python is a programming pattern that organizes code around objects, which represent groups of real-world objects. Each object has attributes and methods.
 #### Exemplo 1 => Acesse o aquivo: exOneIntermediaryPy.py
 #### Example 1 => Acesses the file: exOneIntermediaryPy.py
 #
