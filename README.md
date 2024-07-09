@@ -10,8 +10,8 @@
 #### Dominar os conceitos básicos de Python é vital, mas para se tornar um programador de Python intermediário, você precisa ir mais adiante. Este compilado prático apresenta comandos e conceitos Python mais avançados, com exemplos para consolidar seu conhecimento.
 #### Mastering the basics of Python is vital, but to become an intermediate Python programmer, you need to go further. This practical compilation presents more advanced Python commands and concepts, with examples to consolidate your knowledge. 
 #
-#### 1 - Estruturas de Dados Avançadas:
-#### 1 - Advanced Data Structures:
+#### 1 - Estruturas de Dados Avançadas
+#### 1 - Advanced Data Structures
 #
 #### •	Listas: Lista é um bloco sequencial de valores, onde cada valor é identificado por meio de um índice. O primeiro valor tem índice 0. 
 #### • Lists: A list is a sequential block of values, where each value is identified by an index. The first value has index 0.
@@ -27,8 +27,10 @@
 #### •	Conjuntos: Em Python, conjuntos (também conhecidos como "sets") são estruturas de dados que agregam coleções não ordenadas de elementos únicos. 
 #### • Sets: In Python, sets are data structures that aggregate unordered collections of unique elements.
 # 
-#### 2. Manipulação de Arquivos: A manipulação de dados em Python abrange o conjunto de técnicas e ferramentas empregadas para organizar, transformar e analisar conjuntos de dados.
-#### 2. File Manipulation: Data manipulation in Python encompasses the set of techniques and tools employed to organize, transform, and analyze data sets.
+#### 2 - Manipulação de Arquivos
+#### 2. File Manipulation
+#### A manipulação de dados em Python abrange o conjunto de técnicas e ferramentas empregadas para organizar, transformar e analisar conjuntos de dados.
+#### Data manipulation in Python encompasses the set of techniques and tools employed to organize, transform, and analyze data sets.
 #
 
 
