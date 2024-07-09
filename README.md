@@ -41,7 +41,7 @@
 #
 #### 4 - Tratamento de Exceções
 #### 4 - 4. Exception Handling 
-### O tratamento de exceções em Python é uma técnica relevante para lidar com erros e falhas inesperadas durante a execução de um programa. Ela possibilitar que o programador retenha e gerencie estes erros de forma segura, evitando que o programa trave ou se comporte de modo inesperado.
+#### O tratamento de exceções em Python é uma técnica relevante para lidar com erros e falhas inesperadas durante a execução de um programa. Ela possibilitar que o programador retenha e gerencie estes erros de forma segura, evitando que o programa trave ou se comporte de modo inesperado.
 #### Exception handling in Python is a relevant technique for dealing with errors and unexpected failures during the execution of a program. It allows the programmer to retain and manage these errors safely, preventing the program from crashing or behaving unexpectedly.
 #### Exemplo 2 => Acesse o aquivo: exTwoIntermediaryPy.py
 #### Exemplo 2 => Acesses the file: exTwoIntermediaryPy.py
