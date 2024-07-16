@@ -1,3 +1,8 @@
+# Line 1 >>  This line defines the main function of the code and assigns it the value (data_type). # Esta linha define a função principal do código e lhe atribui o valor(tipo_dado).  
+
+
+
+
 def autenticar_acesso_decorador(tipo_dado):
     def decorator(funcao):
         def funcao_decorada(*args, **kwargs):
