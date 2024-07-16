@@ -3,7 +3,7 @@
 # Line 3 >> Self method being called together with the name variable and assigning a value to it. # Método self sendo chamado juntamente com a variável name e atribuição de valor ao mesmo.
 # Line 4 >> Self method being called together with the age variable and assingning a value to it. # Método self sendo chamado juntamente com a variável age e atribuição de valor ao mesmo.
 # Line 5 >> Definition of the to_present method and the Self parameter being called. # Definição do método to_present e o parâmentro Self sendo chamado.
-# Line 6 >> This line of code is using an f string to display a formatted messagge in the console. # Esta linha de código está usando uma string f para mostrar uma mensagem formatada no console.
+# Line 6 >> This line of code is using an f string to shows a formatted messagge in the console. # Esta linha de código está usando uma string f para mostrar uma mensagem formatada no console.
 class Person:
     def __init__ (self, name, age):
         self.name = name
