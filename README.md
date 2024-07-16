@@ -60,13 +60,16 @@
 #
 #### Materiais Complementares:
 #### Complementary Materials:
-#### •	Documentação oficial sobre decoradores em Python 
+#### •	Documentação oficial sobre decoradores em Python
+#### •  Official documentation on decorators in Python
 #### <https://python101.pythonlibrary.org/chapter25_decorators.html>
 # 
 #### •	Tutorial detalhado sobre decoradores 
+#### •	Detailed decorator tutorial
 #### <https://realpython.com/courses/python-decorators-101/>
 # 
 #### •	Curso completo sobre decoradores em vídeo
+#### •	Complete video course on decorators
 #### <https://m.youtube.com/watch?v=yNzxXZfkLUA>
 #
 
