@@ -58,4 +58,15 @@
 #### Exemplo 3 => Acesse o aquivo: exThreeIntermediaryPy.py
 #### Exemplo 3 => Acesses the file: exThreeIntermediaryPy.py
 #
-#### 
+#### Materiais Complementares:
+#### Complementary Materials:
+#### •	Documentação oficial sobre decoradores em Python 
+#### <https://python101.pythonlibrary.org/chapter25_decorators.html>
+# 
+#### •	Tutorial detalhado sobre decoradores 
+#### <https://realpython.com/courses/python-decorators-101/>
+# 
+#### •	Curso completo sobre decoradores em vídeo
+#### <https://m.youtube.com/watch?v=yNzxXZfkLUA>
+#
+
