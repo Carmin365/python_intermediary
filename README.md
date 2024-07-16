@@ -51,4 +51,11 @@
 #### Em Python, módulos e pacotes são arranjos cruciais para organizar e reutilizar código. Apesar de servirem a propósitos similares, possuem características diversas que as diferenciam.
 #### In Python, modules and packages are crucial arrangements for organizing and reusing code. Despite serving similar purposes, they have different characteristics that differentiate them.
 #
+#### 6 - Funções Decoradoras
+#### 6 - Decorative Functions
+#### Funções decoradoras, também conhecidas como decoradores, caracteriza um dispositivo importante em Python que possibilita modificar o comportamento de funções sem alterar seu código original. Elas servem como "envolvedores" que agregam funcionalidades extras antes, depois ou durante a execução da função original.
+#### Decorator functions, also known as decorators, characterize an important device in Python that makes it possible to modify the behavior of functions without changing their original code. They serve as "wrappers" that add extra functionality before, after or during the execution of the original function.
+#### Exemplo 3 => Acesse o aquivo: exThreeIntermediaryPy.py
+#### Exemplo 3 => Acesses the file: exThreeIntermediaryPy.py
+#
 #### 
