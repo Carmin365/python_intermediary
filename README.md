@@ -46,4 +46,9 @@
 #### Exemplo 2 => Acesse o aquivo: exTwoIntermediaryPy.py
 #### Exemplo 2 => Acesses the file: exTwoIntermediaryPy.py
 #
-#### ...
+#### 5 - Módulos e Pacotes
+#### 5 - Modules and Packages
+#### Em Python, módulos e pacotes são arranjos cruciais para organizar e reutilizar código. Apesar de servirem a propósitos similares, possuem características diversas que as diferenciam.
+#### In Python, modules and packages are crucial arrangements for organizing and reusing code. Despite serving similar purposes, they have different characteristics that differentiate them.
+#
+#### 
