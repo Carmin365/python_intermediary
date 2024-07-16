@@ -72,4 +72,20 @@
 #### •	Complete video course on decorators
 #### <https://m.youtube.com/watch?v=yNzxXZfkLUA>
 #
+#
+#
+## <p>*Gostou do Conteúdo?
+## *Did you like the content?</p> 
+#
+### Breve estará disponível o Compilado Prático de nível Avançado.
+### The Advanced level Practical Compilation will soon be available.
+#
+## <p>Bons Estudos!
+## Happy Studies!</p>
+#
+### <em>> Este conteúdo foi produzido por Carmin Dias Ilarraz.
+### > This content was produced by Carmin Dias Ilarraz.</em> 
+#
+### Contato via mensagens eletrônicas: @carmin.ilarraz
+### Contact via eletrônic messages: @carmin.ilarraz
 
