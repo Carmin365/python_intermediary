@@ -13,14 +13,19 @@ def autenticar_acesso_decorador(tipo_dado):
                     raise TypeError(f"Argumento '{arg}' deve ser do tipo {tipo_dado}.")
                
                 # Line 7 >> In this line the result variable is declared and two values ​​are assigned to it. 'function' is the name of the function being requested. 'args' and 'kwargs' are two arguments used to unpack lists, tuples and dictionaries. # Nesta linha a variável resultado é declarada e lhe é atribuida dois valores. 'funcao' é o nome da função que está sendo solicitada. 'args' e 'kwargs' são dois argumentos utilizados para desempacotar listas, tuplas e dicionários. 
-                # Line 8 >> The moment Python encounters the word 'return' it immediately removes itself from the function. The result variable is the value returned by the function. # No momento que o Python encontra a palavra 'return' ele retira-se da função de imediato. A variável resultado é o valor devolvido pela função. 
-                # Line 9 >>
-                # Line 10 >>
+                # Line 8 >> In this line 'return' returns a value, this value is the value contained in the result variable. # Nesta linha 'return' devolve um valor, este valor é o valor contido na variável resultado. 
+                # Line 9 >> In this line 'return' is returning a value and this value is the 'decorator_function' that was defined in line 3 of the code. # Nesta linha 'return' está devolvendo um valor e este valor é a 'funcao_decoradora' que foi definida na linha 3 do código.
+                # Line 10 >> In this line 'return' is returning a value and this value is the content of the decorator variable that was defined in line two of the code. # Nesta linha 'return' está devolvendo um valor e este valor é o conteúdo da variável decorator que foi definida na linha dois do código.
                 resultado = funcao(*args, **kwargs)
                 return resultado 
             return funcao_decorada
         return decorator
-    
+
+    # Line 11 >>
+    # Line 12 >>
+    # Line 13 >>
+    # Line 14 >>
+    # Line 15 >>
     @autenticar_acesso_decorador(str)
     def formatar_nome(nome):
         return nome.title()
