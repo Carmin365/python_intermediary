@@ -13,7 +13,7 @@ def autenticar_acesso_decorador(tipo_dado):
                     raise TypeError(f"Argumento '{arg}' deve ser do tipo {tipo_dado}.")
                
                 # Line 7 >> In this line the result variable is declared and two values ​​are assigned to it. 'function' is the name of the function being requested. 'args' and 'kwargs' are two arguments used to unpack lists, tuples and dictionaries. # Nesta linha a variável resultado é declarada e lhe é atribuida dois valores. 'funcao' é o nome da função que está sendo solicitada. 'args' e 'kwargs' são dois argumentos utilizados para desempacotar listas, tuplas e dicionários. 
-                # Line 8 >> 
+                # Line 8 >> The moment Python encounters the word 'return' it immediately removes itself from the function. The result variable is the value returned by the function. # No momento que o Python encontra a palavra 'return' ele retira-se da função de imediato. A variável resultado é o valor devolvido pela função. 
                 # Line 9 >>
                 # Line 10 >>
                 resultado = funcao(*args, **kwargs)
