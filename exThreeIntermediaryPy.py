@@ -12,8 +12,8 @@ def autenticar_acesso_decorador(tipo_dado):
                 if not isinstance(arg, tipo_dado):
                     raise TypeError(f"Argumento '{arg}' deve ser do tipo {tipo_dado}.")
                
-                # Line 7 >> 
-                # Line 8 >>
+                # Line 7 >> In this line the result variable is declared and two values ​​are assigned to it. 'function' is the name of the function being requested. 'args' and 'kwargs' are two arguments used to unpack lists, tuples and dictionaries. # Nesta linha a variável resultado é declarada e lhe é atribuida dois valores. 'funcao' é o nome da função que está sendo solicitada. 'args' e 'kwargs' são dois argumentos utilizados para desempacotar listas, tuplas e dicionários. 
+                # Line 8 >> 
                 # Line 9 >>
                 # Line 10 >>
                 resultado = funcao(*args, **kwargs)
