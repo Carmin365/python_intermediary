@@ -32,6 +32,10 @@ def autenticar_acesso_decorador(tipo_dado):
     nome_formatado = formatar_nome("ana dos santos")
     print(nome_formatado)
 
+    # Line 16 >>
+    # Line 17 >>
+    # Line 18 >>
+    # Line 19 >>
     try:
         formatar_nome(123)
     except TypeError as e:
