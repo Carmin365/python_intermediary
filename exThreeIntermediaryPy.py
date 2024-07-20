@@ -32,7 +32,7 @@ def autenticar_acesso_decorador(tipo_dado):
     print(nome_formatado)
 
     # Line 16 >> This starts a 'try:' block that is used to capture and handle possible exceptions (errors). # Esta inicia um bloco 'try:' que é utilizado para confiscar e tratar passíveis exceções(erros).
-    # Line 17 >>
+    # Line 17 >> This line indicates the function that was defined in line 12 of the code and the content inside the parentheses means the argument being sent by the function. # Esta linha indica a função que foi definida na linha 12 do código e o conteúdo dentro dos parênteses significa o argumento que está sendo enviado pela função. 
     # Line 18 >>
     # Line 19 >>
     try:
