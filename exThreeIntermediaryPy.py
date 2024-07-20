@@ -20,7 +20,7 @@ def autenticar_acesso_decorador(tipo_dado):
             return funcao_decorada
         return decorator
 
-    # Line 11 >>
+    # Line 11 >> In this line the symbol '@' is used to introduce a decorator to a function, the function here is 'autenticar_acesso_decorador' and (str) is the type of information that the function will return. # Nesta linha o símbolo '@' serve para introduzir um decorador a uma função, a função aqui é 'autenticar_acesso_decorador' e (str) é o tipo de informação que a função vai retornar.
     # Line 12 >>
     # Line 13 >>
     # Line 14 >>
