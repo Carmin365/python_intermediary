@@ -31,7 +31,7 @@ def autenticar_acesso_decorador(tipo_dado):
     nome_formatado = formatar_nome("ana dos santos")
     print(nome_formatado)
 
-    # Line 16 >>
+    # Line 16 >> This starts a 'try:' block that is used to capture and handle possible exceptions (errors). # Esta inicia um bloco 'try:' que é utilizado para confiscar e tratar passíveis exceções(erros).
     # Line 17 >>
     # Line 18 >>
     # Line 19 >>
