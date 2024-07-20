@@ -21,12 +21,12 @@ def autenticar_acesso_decorador(tipo_dado):
         return decorator
 
     # Line 11 >> In this line the symbol '@' is used to introduce a decorator to a function, the function here is 'autenticar_acesso_decorador' and (str) is the type of information that the function will return. # Nesta linha o símbolo '@' serve para introduzir um decorador a uma função, a função aqui é 'autenticar_acesso_decorador' e (str) é o tipo de informação que a função vai retornar.
-    # Line 12 >>
-    # Line 13 >>
-    # Line 14 >>
+    # Line 12 >> In this line the function 'formatar_nome' is defined and the value 'name' in parentheses characterizes the function parameter being passed. # Nesta linha a função 'formatar_nome é definida e o valor 'nome' entre parênteses caracteriza o parâmetro da função que está sendo passado. 
+    # Line 13 >> This characterizes the result of the previous operation and .title() is a method of the str class that modifies the string to the title "model", where the first letter of each word will be capitalized and the rest lowercase. # Esta caracteriza o resultado da operação anterior e .title() é um método da classe str que modifica a string para o "modelo" título, onde a primeira letra de cada palavra será maiúscula e as demais minúsculas.
+    # Line 14 >> In this line formatado_nome is a variable and the value 'formatar_nome' is being assigned to it. The content inside the parentheses characterizes the argument being passed by the function, as well as the value that the function will trigger. # Nesta linha nome_formatado é uma variável e se lhe está sendo atribuído o valor 'formatar_nome'. O conteúdo dentro dos parênteses caracteriza o argumento que está sendo passado pelo função, bem como o valor que a função irá acionar. 
     # Line 15 >>
     @autenticar_acesso_decorador(str)
-    def formatar_nome(nome):
+    def formatar_nome(nome): 
         return nome.title()
     nome_formatado = formatar_nome("ana dos santos")
     print(nome_formatado)
