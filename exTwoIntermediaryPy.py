@@ -8,10 +8,10 @@
 # Line 8 >> This "except" block is a common exception conquer block. It will take effect if any exception (other than ValueError) happens inside the "try" block. # Este bloco "except" é um bloco comum de coquista de exceção. Ele será efetivado se qualquer exceção (além de ValueError) acontecer dentro do bloco "try".
 # Line 9 >> As per the previous block, the exception is caught in variable e and a generic error message is shown. # Conforme o bloco anterior, a exceção é conquistada na variável e e uma mensagem de erro genérica é mostrada.
 try:
-    number = int(input("Enter a number"))
-    if number <= 0:
+    num = int(input("Enter a number"))
+    if num <= 0:
         raise ValueError("The number must be positive")
-    print(f"the square of the number is: {number ** 2}")
+    print(f"the square of the number is: {num ** 2}")
 except ValueError as e:
     print(f"Error: {e}")
 except Exception as e:
